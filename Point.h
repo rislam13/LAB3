@@ -1,5 +1,8 @@
 //Reham Islam
 //POINT CLASS
+//Prompt the user to input the number of coordinate points to generate. Each coordinate point is a x- and y- coordinate value (ranging from 0 to 100).
+//Randomly generate the given number of random points, and store the set of points in an unsorted_set.
+//Display the set of points by displaying a star character in each point. For example, if the set contains five coordinate points, (0,0),(1,1),(2,2),(1,3),(0,4), then the following will be shown:
 
 #include <iostream>
 using namespace std;
